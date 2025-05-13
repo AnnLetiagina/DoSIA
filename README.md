@@ -1,5 +1,5 @@
 # DoSIA - Downstream Sequence element Iterative Analyzer
-This repository contains the code for running DoSIA, a model that can predict human genes expression level based on their Downstream Sequence Element (DSE) sequence.
+This repository contains the code for running DoSIA, a model that can predict human genes expression levels based on their Downstream Sequence Element (DSE) sequences.
 
 The model was trained on >200 thousands randomized DSE poly-A signals expressed on mini gene reporters in HEK293T.
 
